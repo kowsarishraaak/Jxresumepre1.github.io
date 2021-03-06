@@ -122,7 +122,11 @@ body{
     font-weight: 500;
 }
 .left{}
-.left h4{}
+.left p{
+    font-size: 23px;
+    font-weight: 500;
+
+}
 .right{}
 .right p{
     font-size: 23px;
