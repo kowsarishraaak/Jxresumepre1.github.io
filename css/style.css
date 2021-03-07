@@ -39,7 +39,7 @@ ul{
 .Colomn1 {
   border-right: 2px solid rgb(219, 219, 219);
   margin-left: auto;
-  padding: 75px 6px 0px 25px;
+  padding: 10px 6px 0px 25px;
 }
 
 .name_des {}
@@ -73,7 +73,7 @@ ul{
 .reference_detail {}
 
 .Colomn2 {
-  padding: 75px 0px 0px 24px;
+  padding: 10px 0px 0px 24px;
 }
 
 .jx_link {}
