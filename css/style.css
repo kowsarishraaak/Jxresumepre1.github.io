@@ -1,0 +1,137 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  /* font-family: 'Open Sans', sans-serif; */
+}
+
+.resume {
+  background: #f7f9fc;
+}
+
+.container {
+  background: white;
+}
+
+h4{
+  color: #478fcc !important;
+  border-top: 0.1rem solid #0091d2;
+  border-bottom: 0.1rem solid #0091d2;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  padding: .4rem 0;
+}
+p{
+  font-size: 1rem;
+  padding-right: 12px;
+}
+ul{
+  font-size: 1rem;
+  padding-right: 12px;
+}
+
+.resume {
+  box-shadow: 1px 3px 11px rgb(235, 234, 234);
+}
+
+.name_des {}
+
+.bio {}
+
+.work {}
+
+.work_detail {}
+
+.bold {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.light {
+  font-size: 20px;
+  color: grey;
+}
+
+.Education {}
+
+.Edu_detail {}
+
+.porfolio {}
+
+.portfolio_detail {}
+
+.reference {}
+
+.reference_detail {}
+
+
+.jx_link {}
+
+.jx_link img {
+  width: 35px;
+  margin-right: 15px;
+  padding-bottom: 7px;
+}
+
+.jx_link a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: black;
+  font-style: italic;
+}
+
+.profile_pic {}
+
+.profile_pic img {
+  border: 2px solid rgb(219 219 219);
+  margin-bottom: 22px;
+}
+
+.info {}
+
+.info img {
+  width: 20px;
+  margin-right: 15px;
+}
+
+.info a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: #478fcc;
+}
+
+
+.skill {
+  margin-top: 49px;
+  margin-bottom: 0.5rem;
+}
+.left {}
+
+.right {}
+
+.certification {}
+
+.membership {}
+
+.Language {}
+
+.hobbies {}
+
+.list {
+  margin-left: 0px;
+}
+
+/* .border-primary{
+  color: #478fcc !important; 
+} */
+
+.bottom{
+  color: #478fcc;
+}
+.dashboard-content-wrapper{
+  padding: 30px 10px;
+  background: white;
+  box-shadow: 0px 0px 0px rgb(235, 234, 234);
+}
